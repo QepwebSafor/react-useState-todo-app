@@ -10,7 +10,7 @@
 
 * Creado por Quica Espi Puig
 
-* Es un blog público disponible  en https://github.com/QepwebSafor/todo-app.git
+* Es un blog público disponible  en https://qepwebsafor.github.io/react-useState-todo-app/
 
 * Página web:  https://qepwebsafor.github.io/todo-app/
 
