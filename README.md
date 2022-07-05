@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Hi there 👋
 
 **QepwebSafor/QepwebSafor** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
