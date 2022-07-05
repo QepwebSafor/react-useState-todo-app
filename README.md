@@ -10,9 +10,8 @@
 
 * Creado por Quica Espi Puig
 
-* Es un blog público disponible  en https://qepwebsafor.github.io/react-useState-todo-app/
 
-* Página web:  https://qepwebsafor.github.io/todo-app/
+* Página web:  https://qepwebsafor.github.io/react-useState-todo-app/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
