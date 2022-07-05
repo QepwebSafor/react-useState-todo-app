@@ -1,5 +1,5 @@
 {
-  "name": "todo-app",
+  "name": "react-useState-todo-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,5 +41,5 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
-  "homepage": "https://qepwebsafor.github.io/todo-app"
+  "homepage": "https://qepwebsafor.github.io/react-useState-todo-app/"
 }
